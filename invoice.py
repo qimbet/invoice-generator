@@ -2,7 +2,7 @@
 # Feb 2024
 
 # to do: 
-#   Build markDown invoice sheet
+#   Build markdown/html invoice sheet
 #   Capitalize First Letters of all "menu list" items in invoice table
 #   Remove surplus lines/compactify
 
